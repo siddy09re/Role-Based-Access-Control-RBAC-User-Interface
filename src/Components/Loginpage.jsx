@@ -71,7 +71,6 @@ const Loginpage = () => {
       loop
     >
       <source src="/5192-183786490_medium.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
     </video>
     
     {/* Login Form */}
